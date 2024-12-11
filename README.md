@@ -1,10 +1,10 @@
 Hi 👋 My name is Kitiphat Ruangamorwat
 ======================================
 
-Computer engineering 3rd year student KMUTT
+Computer engineering and AI engineer
 -------------------------------------------
 
-I am looking for intern in the position of Software engineering and Data analyst. I familiar with HTML, CSS, JavaScript now I am learning Python. I have knowledge of Software engineering. But I would like to learn about Data analyst.
+I am looking for best salary job in the position of Software engineering and AI engineer. I familiar with HTML, CSS, JavaScript, ReactJS, NodeJS, Pytorch, TensorFlow. I have knowledge of Software engineering and AI engineering. 
 
 * 🌍  I'm based in Samutprakarn,Thailand
 * ✉️  You can contact me at [kitiphat.koptor@gmail.com](mailto:kitiphat.koptor@gmail.com)
