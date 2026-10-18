@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kitiphat Ruangamorwat</h1>
+<h1 align="center">Hi 👋, I'm Kitiphat Ruangamornwat</h1>
 
 <h3 align="center">
 AI Engineer · LLM Systems · AI Agents · Document Intelligence
